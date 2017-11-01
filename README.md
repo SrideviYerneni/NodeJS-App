@@ -1,4 +1,4 @@
-# NodeJS-App
+# node.js App
 This is a simple node.js App
 
 To execute the program,
