@@ -1,5 +1,5 @@
 # NodeJS-App
-This is a sample NodeJS App
+This is a simple NodeJS App
 
 To execute the program,
 1) Run 'npm install'
