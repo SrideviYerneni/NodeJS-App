@@ -1,5 +1,5 @@
 jQuery.fn.center = function(){
-    var element = $(this);
+    var element = this;
     $(element).load(function(){
           changeCss();
   
